@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f3866e-d5bd-4c96-822d-8bf09a4b141f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/java_questions/phonelettercombinations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fizzbuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/java_coding_questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_questions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/out/production/java_coding_questions/intToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_questions/intToRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/out/production/java_coding_questions/phonelettercombinations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/src/intToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intToRoman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/java_coding_questions/src/phonelettercombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phonelettercombinations.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1f3866e-d5bd-4c96-822d-8bf09a4b141f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +44,7 @@
         <option value="$PROJECT_DIR$/src/intToRoman.java" />
         <option value="$PROJECT_DIR$/src/phonelettercombinations.java" />
         <option value="$PROJECT_DIR$/src/fizzbuzz.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
       </list>
     </option>
   </component>
@@ -74,9 +59,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_questions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_questions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,9 +136,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="957" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,6 +193,9 @@
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/intToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
